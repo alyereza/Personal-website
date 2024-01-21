@@ -1,0 +1,15 @@
+/*
+	Prologue by Tahlildadeh
+	tahlildadeh.com | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (tahlildadeh.com)
+*/
+
+/* Button */
+
+	input[type="button"],
+	input[type="submit"],
+	input[type="reset"],
+	button,
+	.button {
+		background-image: url("images/ie/grad0-15.svg");
+	}
